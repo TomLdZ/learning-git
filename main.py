@@ -29,3 +29,4 @@ for student in exam_points:
 print(failed_students, top_students, best_student)
 
 print("zmiany wprowadzone na githubie")
+print("zmiany wprowadzone na githubie 2") 
